@@ -119,3 +119,13 @@ I wanted to be in this class for multiple reasons:
 ## Elijah's Section
 
 I want to learn how to make things like drones and robots because they seam interesting to me.
+
+## Luc's Section
+
+I am interested in this course because: 
+
+- There are many ways **computers and the internet** affect our lives now adays
+- I like computers and would _wish_ to learn more about them
+- Also building a drone would be _cool_
+
+{Civil Engineering Pathway}
